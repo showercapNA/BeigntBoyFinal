@@ -1,0 +1,22 @@
+{
+    "dishes" : [
+        {
+            "name": "Curry Goat",
+            "slug": "curry-goat",
+            "description": "it falls of the bone"
+        },
+ 
+        {
+            "name": "Fried Yucca",
+            "slug": "fried-yucca",
+            "description": "crispy yucca from south america"
+        },
+ 
+        {
+            "name": "Fried Rice",
+            "slug": "ghana-fried-rice",
+            "description": "Umami flavors from west of the continent"
+        }
+    ]
+}
+ 
